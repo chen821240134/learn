@@ -1,1 +1,5 @@
-creating a new branch is quick and master
+<<<<<<< HEAD
+creating a new branch is quick and conflic
+=======
+creating a new branch is quick and conflic
+>>>>>>> feaure1
